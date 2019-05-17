@@ -20,4 +20,5 @@ function checkLetter(){
              item.innerHTML = word[i];
         }
      } 
+     document.getElementById("userGuess").value="";
 }
