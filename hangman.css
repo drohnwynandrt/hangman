@@ -1,3 +1,5 @@
 #theWord{
     display: flex;
+    font-weight: bold;
+    font-size: x-large;
 }
