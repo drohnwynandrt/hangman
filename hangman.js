@@ -9,6 +9,7 @@ function writeWord(){
         var divParent = document.getElementById("theWord");
         divParent.appendChild(newDiv);
     }
+    document.getElementById("startBTN").style.display="none";
 }
 
 function checkLetter(){
